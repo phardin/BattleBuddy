@@ -1,0 +1,6 @@
+[submodule "iOS/deps/djinni"]
+	path = iOS/deps/djinni
+	url = https://github.com/dropbox/djinni.git
+[submodule "deps/djinni"]
+	path = deps/djinni
+	url = https://github.com/dropbox/djinni.git
